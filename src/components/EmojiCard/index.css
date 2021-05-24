@@ -1,0 +1,12 @@
+/* Write your code here. */
+.each-emoji {
+  background-color: #ffffff33;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+}
+.emoji {
+  width: 100px;
+  height: 100px;
+}

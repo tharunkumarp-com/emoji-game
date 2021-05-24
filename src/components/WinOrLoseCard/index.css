@@ -1,0 +1,9 @@
+/* Write your code here. */
+.win-lose-card {
+  display: flex;
+  background-color: #ffffff33;
+  padding: 30px;
+}
+.card-container {
+  padding-top: 50px;
+}

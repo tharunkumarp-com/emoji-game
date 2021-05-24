@@ -1,0 +1,26 @@
+/* Write your code here. */
+.navbar {
+  display: flex;
+  background-color: #ffffff33;
+  justify-content: space-between;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.div-logo {
+  display: flex;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  align-self: center;
+}
+.game-name {
+  font-size: 20px;
+  margin-top: 11px;
+  margin-left: 5px;
+}
+.scores-div {
+  width: 160px;
+  display: flex;
+  justify-content: space-between;
+}
